@@ -1,0 +1,89 @@
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+
+}
+.navigation {
+    width: 100%;
+    padding: 10px;
+    border: 10px solid white;
+    margin: 0;
+  }
+
+.header {
+      float: left;
+      padding-left: 1px;
+      padding-right: 14px;
+      background-color: aqua;
+      color: white;
+            
+  }
+
+  .link1, .link2, .link3 {
+      float: left;
+      padding: 3PX;
+      padding-top: 32PX;
+  }
+
+  #pad1{
+    float: left;
+    padding-left: 200PX;
+    padding-top: 20PX; 
+  }
+
+  #pad2{
+    float: left;
+    padding-right: 400PX;
+    padding-top: 20PX; 
+  }
+  
+
+ 
+  #main {
+        clear: both;
+        width: 1013px;
+        height: 230px;
+        border: 123px solid darkgray;
+        padding: 10px;
+        margin: 0px;
+                         
+    }
+    #myimg{
+        float: left;
+        padding-right: 10PX;
+        padding-top: 10PX; 
+    }
+
+    #mybio{
+        float: left;
+        padding-right: 10PX;
+        padding-top: 10PX; 
+    }
+ 
+    #port {
+        clear: both;
+          width: 1150px;
+          height: 528px;
+          border: 50px solid darkgray;
+          padding: 10px;
+          margin: 0px;
+                    
+      }
+      #contact {
+        clear: both;
+          width: 1150px;
+          height: 528px;
+          border: 50px solid darkgray;
+          padding: 10px;
+          margin: 0px;
+                    
+      }
+  #copy{
+     width: 100%;
+     height: 30px;
+     text-align:center;
+     background-color: black;
+     color: white;
+     margin:0px;
+  }
